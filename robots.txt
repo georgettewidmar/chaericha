@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aezairooqu.ychenchen.com/sitemap.xml
